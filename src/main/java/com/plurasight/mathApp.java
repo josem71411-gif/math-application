@@ -18,7 +18,10 @@ public class mathApp {
         double radius = 7.25;
         double area = Math.PI * Math.pow(radius, 2);
         System.out.println("The area of the circle is " + area);
-
+// Question 4
+        double number = 5.0;
+        double squareRoot = Math.sqrt(number);
+        System.out.println("The square root of " + number +" is " + squareRoot);
 
 
 
